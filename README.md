@@ -24,8 +24,8 @@ The Wild Oasis is a modern web application designed to manage bookings, cabins, 
 
 To log into the application, use the following credentials:
 
-- **Email**: `amercosic@test.com`
-- **Password**: `password`
+- **Email**: `admin@thewildoasis.com`
+- **Password**: `admin1234`
 
 ## Installation
 
