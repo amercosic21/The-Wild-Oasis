@@ -70,9 +70,13 @@ public/
 ## Screenshots
 
 ### Home Page
+![Dashboard](https://github.com/user-attachments/assets/bdce5f0a-6227-442e-b20b-7472237a9b29)
 
 ### Booking Management
+![Bookings](https://github.com/user-attachments/assets/a39e958e-28b9-485e-8797-eb84862d6c47)
 
 ### Cabin Details
+![Cabins](https://github.com/user-attachments/assets/1508c6d9-d460-402c-897a-fd40115f2978)
 
 ### Light Mode
+![Bookings-light](https://github.com/user-attachments/assets/65228e27-804b-48a8-ab3d-bc65d79c1c1f)
